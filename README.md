@@ -1,0 +1,2 @@
+# This repository contains various Maximum Entropy Reinforcement Learning algorithms.
+* Link to my notes on the topic: [MaxEntRL](https://drive.google.com/file/d/1H9TMM-vtvaI10YVXEul7F1-CC6D1AXqD/view?usp=sharing).
