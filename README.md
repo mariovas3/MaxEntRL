@@ -5,7 +5,7 @@
 * Although this is not a fork or a clone of any other implementation of any other algorithms, the code design has been inspired by the [rlkit](https://github.com/rail-berkeley/rlkit) repo. Thanks to the contributors of rlkit for providing a [PyTorch](https://github.com/pytorch/pytorch) implementation of [SAC](https://arxiv.org/abs/1812.05905).
 
 ## Implemented Algorithms:
-* You can check the settable parameters for the experiments in the  `params_func_config` dictionary in the [experiments_init_utils.py](https://github.com/mariovas3/MaxEntRL/rl_algos/algorithms/experiments_init_utils.py) file.
+* You can check the settable parameters for the experiments in the  `params_func_config` dictionary in the [experiments_init_utils.py](https://github.com/mariovas3/MaxEntRL/blob/master/rl_algos/algorithms/experiments_init_utils.py) file.
 * Soft Actor-Critic, tested on the "Hopper-v2" environment from [MuJoCo](https://mujoco.org/).
     * Example test script is to run the following command from 
     root of repo:
